@@ -250,4 +250,4 @@ $('document').ready(function () {
         msgLoop(0);
     });
 });
-alert('hello noọng!!!');
+alert('chài điếp noọng!!!');
